@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669524938307",
+    "firebase_url": "https://arquismsapp.firebaseio.com",
+    "project_id": "arquismsapp",
+    "storage_bucket": "arquismsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669524938307:android:1f09c5e47a6b82a7",
+        "android_client_info": {
+          "package_name": "com.phonegap.arqui_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669524938307-4qqgr56p5nf77glnbk96abkjrmugcdai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGG9DvXC_3CUnL-_f4z4x3JN8-lfnhxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
